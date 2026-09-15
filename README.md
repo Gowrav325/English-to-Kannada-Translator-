@@ -1,6 +1,6 @@
 # English to Kannada Neural Machine Translation
 
-An English-to-Kannada Neural Machine Translation (NMT) system built with PyTorch, developed under the guidance of **Prof. C. Chandra Sekhar** at **IIT Madras**.
+An English-to-Kannada Neural Machine Translation (NMT) system built with PyTorch
 
 Overview
 
